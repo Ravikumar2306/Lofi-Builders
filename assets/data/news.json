@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "public/assets/images/news/card-1.jpg",
+      "image": "/Lofi-Builders/assets/images/news/card-1.jpg",
       "authorImage": "https://randomuser.me/api/portraits/women/68.jpg",
       "authorName": "Priya Sharma",
       "heading": "Unleashing Hydropower Potential to Drive a Greener Tomorrow",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "image": "public/assets/images/news/card-2.jpg",
+      "image": "/Lofi-Builders/assets/images/news/card-2.jpg",
       "authorImage": "https://randomuser.me/api/portraits/men/45.jpg",
       "authorName": "Arjun Mehta",
       "heading": "Redefining Wind Parks Through Smart Technology and Innovation",
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "image": "public/assets/images/news/card-3.jpg",
+      "image": "/Lofi-Builders/assets/images/news/card-3.jpg",
       "authorImage": "https://randomuser.me/api/portraits/women/52.jpg",
       "authorName": "Sneha Verma",
       "heading": "From Cells to Solutions: The Rise of Bioenergy Innovations",
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "image": "public/assets/images/news/card-4.jpg",
+      "image": "/Lofi-Builders/assets/images/news/card-4.jpg",
       "authorImage": "https://randomuser.me/api/portraits/men/36.jpg",
       "authorName": "Karthik Rao",
       "heading": "Illuminating the Future with Transparent and Smart Solar Panels",
