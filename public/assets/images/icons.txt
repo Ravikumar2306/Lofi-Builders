@@ -1,0 +1,26 @@
+Hydro-Power
+import { PiWavesLight } from "react-icons/pi";
+<PiWavesLight />
+
+wind:
+import { PiWindLight } from "react-icons/pi";
+<PiWindLight />
+
+Energy:
+import { SlEnergy } from "react-icons/sl";
+<SlEnergy />
+
+solar:
+import { PiSunHorizon } from "react-icons/pi";
+<PiSunHorizon />
+
+
+green color: 
+#206464
+
+background:
+#f4f8fb
+
+light green:
+#d0fa93
+

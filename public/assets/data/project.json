@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "projectName": "Bespoke Cabin Retreat",
+    "year": 2021,
+    "summary": "A handcrafted wooden cabin nestled in the heart of nature, designed for serene weekend getaways. The project emphasizes sustainable materials and minimalist design, offering a perfect blend of comfort and simplicity.",
+    "location": "Coorg, Karnataka",
+    "size": "1200 sq ft",
+    "materials": ["Oak", "Ash", "Copper"],
+    "image": "/assets/images/Bespoke.jpg"
+  },
+  {
+    "id": 2,
+    "projectName": "Hilltop Wooden Villa",
+    "year": 2022,
+    "summary": "A modern wooden villa perched on a scenic hilltop, designed to maximize natural light and air circulation. With floor-to-ceiling glass panels and timber interiors, this project combines luxury with nature.",
+    "location": "Ooty, Tamil Nadu",
+    "size": "2000 sq ft",
+    "materials": ["Teak", "Glass", "Steel"],
+    "image": "/assets/images/Oak-cabin.jpg"
+  },
+  {
+    "id": 3,
+    "projectName": "Lakeside Heritage Home",
+    "year": 2020,
+    "summary": "Inspired by traditional South Indian architecture, this lakeside home uses native materials and craftsmanship to create a timeless look. Carved wooden pillars, copper detailing, and a bamboo ceiling make this a cultural standout.",
+    "location": "Alleppey, Kerala",
+    "size": "1500 sq ft",
+    "materials": ["Rosewood", "Copper", "Bamboo"],
+    "image": "/assets/images/Lakeside.jpg"
+  }
+]

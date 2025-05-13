@@ -1,0 +1,123 @@
+#focus-area-section  {
+    background-color: #fff;
+    padding: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+.focus-area {
+    font-size: clamp(0.8rem, 1vw, 1.2rem);
+    font-weight: 500;
+    color: #206464;
+}
+
+.focus-description {
+    font-size: clamp(2rem, 2vw, 2rem);
+    width: 80%;
+    margin-bottom: 50px;
+    line-height: 45px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 15px;
+    grid-template-areas: 
+    "box-1 box-2"
+    "box-3 box-4";
+}
+
+.grid-box {
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.grid-box1 {
+    grid-area: box-1;
+    background-color: #1d6362;
+}
+
+.grid-box2 {
+    grid-area: box-2;
+    background-color: #d0fa93;
+}
+
+.grid-box3 {
+    grid-area: box-3;
+    background-color: #fe8159;
+}
+
+.grid-box4 {
+    grid-area: box-4;
+    background-color: #302a25;
+}
+
+.grid-box1, .grid-box4 {
+    color: #fff;
+}
+
+.gridBox-title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.gridBox-description {
+    font-size: clamp(0.8rem, 1vw, 1.2rem);
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.grid-content .learn-more {
+    border: none;
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+.grid-box1 .learn-more,
+.grid-box4 .learn-more {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+
+    #focus-area-section {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .grid {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "box-1"
+        "box-2"
+        "box-3"
+        "box-4";
+    }
+
+    .focus-description {
+        font-size: clamp(1.5rem, 2vw, 2rem);
+        margin-bottom: 20px;
+        line-height: 30px;
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+
+    .focus-description {
+        font-size: clamp(1.5rem, 1.5vw, 1.5rem);
+        line-height: 35px;
+        width: 100%;
+    }
+
+    .gridBox-description {
+        font-size: clamp(0.8rem, 0.8vw, 1rem);
+        line-height: 25px;
+    }
+
+}

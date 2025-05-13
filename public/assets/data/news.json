@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "public/assets/images/news/card-1.jpg",
+      "authorImage": "https://randomuser.me/api/portraits/women/68.jpg",
+      "authorName": "Priya Sharma",
+      "heading": "Unleashing Hydropower Potential to Drive a Greener Tomorrow",
+      "shortNews": "Hydropower is becoming a dominant force in sustainable energy as new technologies maximize river potential without harming ecosystems.",
+      "date": "19 Mar - 6 Min"
+    },
+    {
+      "id": 2,
+      "image": "public/assets/images/news/card-2.jpg",
+      "authorImage": "https://randomuser.me/api/portraits/men/45.jpg",
+      "authorName": "Arjun Mehta",
+      "heading": "Redefining Wind Parks Through Smart Technology and Innovation",
+      "shortNews": "Modern wind farms are integrating AI and IoT to boost efficiency and reduce maintenance costs, transforming the energy landscape.",
+      "date": "12 May - 10 Min"
+    },
+    {
+      "id": 3,
+      "image": "public/assets/images/news/card-3.jpg",
+      "authorImage": "https://randomuser.me/api/portraits/women/52.jpg",
+      "authorName": "Sneha Verma",
+      "heading": "From Cells to Solutions: The Rise of Bioenergy Innovations",
+      "shortNews": "Breakthroughs in bioenergy are turning waste into power with advanced microbial fuel cells driving cleaner alternatives.",
+      "date": "29 Jun - 8 Min"
+    },
+    {
+      "id": 4,
+      "image": "public/assets/images/news/card-4.jpg",
+      "authorImage": "https://randomuser.me/api/portraits/men/36.jpg",
+      "authorName": "Karthik Rao",
+      "heading": "Illuminating the Future with Transparent and Smart Solar Panels",
+      "shortNews": "Next-gen solar panels are set to revolutionize urban energy production with transparent designs and improved storage systems.",
+      "date": "02 Nov - 18 Min"
+    }
+  ]
+  

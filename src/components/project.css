@@ -1,0 +1,101 @@
+.right-section .house-images {
+    max-width: 350px;
+    max-height: 305px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.house-images img {
+    max-width: 350px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.project-number{
+    font-size: clamp(0.8rem, 1vw, 1.2rem);
+    font-weight: 500;
+    color: #206464;
+}
+
+.project-name{
+    font-size: clamp(2rem, 2vw, 2rem);
+}
+
+.middle {
+    width: 90%;
+}
+
+.middle p{
+    font-size: clamp(0.8rem, 1vw, 1.2rem);
+    font-weight: 500;
+}
+
+.bottom-title {
+    font-size: clamp(0.8rem, 1vw, 1.2rem);
+    font-weight: 500;
+}
+
+.bottom-data {
+    font-size: clamp(0.9rem, 1.2vw, 1.2rem);
+    font-weight: 600;
+}
+
+@media (max-width:992px) and (min-width:768px) {
+   
+    .project-number {
+        margin-bottom: 5px;
+    }
+
+    .project-name{
+        font-size: clamp(1.5rem, 1vw, 2rem);
+        margin-bottom: 5px;
+    }
+
+    .middle{
+        margin: 0!important;
+    }
+}
+
+@media (max-width:767px) {
+
+    #main-container {
+        margin-top: 0!important;
+    }
+    
+   .main-section {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+   }
+
+   .left-section {
+    max-width: 100%;
+    align-self: center;
+    text-align: center;
+   }
+
+   .project-name{
+    margin-bottom: 5px;
+}
+
+   .middle {
+    width: 100%;
+    margin: 0!important;
+   }
+
+   .bottom {
+    justify-content: space-between;
+   }
+
+   .right-section {
+    max-width: 100%;
+    margin-bottom: 20px;
+   }
+}
+
+
+
+

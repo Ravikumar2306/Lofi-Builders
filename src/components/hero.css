@@ -1,0 +1,53 @@
+.caption{
+    font-size: 4vw;
+    font-weight: 400;
+    top: 25%;
+    left: 5%;
+    padding: 0;
+    margin: 0;
+}
+
+.image-section img {
+    border-radius: 15px;
+} 
+
+.survey {
+    width: 60%;
+    padding: 2vw;
+    border-radius: 15px 0 14px 0;
+}
+
+.data {
+    color: #206464;
+    font-size: 3vw;
+    font-weight: 500;
+}
+
+.description{
+    font-size: 1.5vw;
+    font-weight: 500;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width:600px) {
+
+    .caption {
+        width: 90%;
+    }
+
+    .survey {
+        width: 100%;
+        border-radius: 0 0 14px 14px;
+        padding: 15px;
+    }
+
+    .data {
+        font-size: 4vw;
+    }
+
+    .description {
+        font-size: 2vw;
+    }
+}
+
