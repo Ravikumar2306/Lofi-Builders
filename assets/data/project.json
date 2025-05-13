@@ -7,7 +7,7 @@
     "location": "Coorg, Karnataka",
     "size": "1200 sq ft",
     "materials": ["Oak", "Ash", "Copper"],
-    "image": "/assets/images/Bespoke.jpg"
+    "image": "/Lofi-Builders/assets/images/Bespoke.jpg"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "location": "Ooty, Tamil Nadu",
     "size": "2000 sq ft",
     "materials": ["Teak", "Glass", "Steel"],
-    "image": "/assets/images/Oak-cabin.jpg"
+    "image": "/Lofi-Builders/assets/images/Oak-cabin.jpg"
   },
   {
     "id": 3,
@@ -27,6 +27,6 @@
     "location": "Alleppey, Kerala",
     "size": "1500 sq ft",
     "materials": ["Rosewood", "Copper", "Bamboo"],
-    "image": "/assets/images/Lakeside.jpg"
+    "image": "/Lofi-Builders/assets/images/Lakeside.jpg"
   }
 ]
